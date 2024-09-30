@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">PhythaCount</string>
+    <string name="tentang_aplikasi">Tentang</string>
+    <string name="segitiga">Segitiga</string>
+    <string name="sisi_hilang">Pilih sisi yang hilang:</string>
+    <string name="sisixz">Sisi A/C</string>
+    <string name="sisiy">Sisi B</string>
+    <string name="hitung">Hitung</string>
+    <string name="hasil">Panjang sisi yang hilang: %1$.2f cm</string>
+    <string name="input_invalid">Masukan inputan yang benar!</string>
+    <string name="intro">Selamat datang di Aplikasi Phytcount! Anda dapat menghitung phytagoras dengan cepat</string>
+    <string name="about_title">Tentang Aplikasi</string>
+    <string name="about_description">Aplikasi Teorema Pythagoras adalah sebuah aplikasi yang dirancang untuk membantu pengguna dalam memahami dan menggunakan Teorema Pythagoras dalam perhitungan segitiga.</string>
+    <string name="app_version">Versi: 1.0.0</string>
+    <!-- strings.xml -->
+    <string name="teorema_pythagoras_image_description">Ilustrasi rumus teorema Pythagoras</string>
+    <string name="teorema_pythagoras_explanation">Teorema Pythagoras menyatakan bahwa dalam segitiga siku-siku, kuadrat panjang sisi miring (sisi yang berlawanan dengan sudut siku-siku) sama dengan jumlah kuadrat panjang kedua sisi lainnya.</string>
+    <string name="copyright">© 2024 Teorema Pythagoras. Hak cipta dilindungi.</string>
+    <string name="kembali">Kembali</string>
+    <string name="learn_more">pelajari selengkapnya</string>
+</resources>

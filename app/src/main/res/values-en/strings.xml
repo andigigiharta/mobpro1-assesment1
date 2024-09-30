@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Pythagorean Theorem</string>
+    <string name="tentang_aplikasi">About</string>
+    <string name="segitiga">Triangle</string>
+    <string name="sisi_hilang">Select the missing side:</string>
+    <string name="sisixz">Side X/Z</string>
+    <string name="sisiy">Side Y</string>
+    <string name="hitung">Calculate</string>
+    <string name="hasil">Length of the missing side: %1$.2f cm</string>
+    <string name="input_invalid">Enter valid input!</string>
+    <string name="intro">Welcome to the Pythagorean Theorem App! This app is designed to help you understand and calculate triangles using the Pythagorean Theorem easily and quickly.</string>
+    <string name="about_title">About the App</string>
+    <string name="about_description">The Pythagorean Theorem App is designed to assist users in understanding and applying the Pythagorean Theorem in triangle calculations.</string>
+    <string name="app_version">Version: 1.0.0</string>
+    <string name="teorema_pythagoras_image_description">Illustration of the Pythagorean Theorem formula</string>
+    <string name="teorema_pythagoras_explanation">The Pythagorean Theorem states that in a right triangle, the square of the length of the hypotenuse (the side opposite the right angle) is equal to the sum of the squares of the lengths of the other two sides.</string>
+    <string name="copyright">© 2024 Pythagorean Theorem. All rights reserved.</string>
+    <string name="kembali">Back</string>
+    <string name="learn_more">pelajari selengkapnya</string>
+</resources>
